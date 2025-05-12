@@ -19,11 +19,7 @@ Welcome to my GitHub! I’m a data enthusiast passionate about using analytics, 
 * Data pipeline automation in Azure
 * Explanable AI tools: SHAPE
 
-## 📈 My Projects
-* Customer Segmentation: Identifying high-potential customer groups for targeted marketing using K-Prototypes clustering.
-* Soccer Analytics: Analyzing player performance metrics to inform recruitment strategies.
-
-Check out my [repositories](https://github.com/qtannn/bank-telemarketing) for more!
+Check out my [repositories](https://github.com/qtannn?tab=repositories) for more!
 
 ## 📫 Connect with Me
 * LinkedIn: [linkedin.com/in/anquach01](linkedin.com/in/anquach01)
